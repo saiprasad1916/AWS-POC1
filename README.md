@@ -193,7 +193,9 @@ Copy and paste dns name url in browser to access application.
 
 S3 BUCKET CREATION:
 create S3 bucket using versioning, enbling bucket key.
-
+![Alt text](https://github.com/saiprasad1916/AWS-POC1/blob/main/scrrenshots/Screenshot%202026-03-31%20103525.png)
+![Alt text](https://github.com/saiprasad1916/AWS-POC1/blob/main/scrrenshots/Screenshot%202026-03-31%20103616.png)
+![Alt text](https://github.com/saiprasad1916/AWS-POC1/blob/main/scrrenshots/Screenshot%202026-03-31%20103700.png)
  9. Conclusion
 
 This architecture demonstrates:
